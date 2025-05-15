@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Peter Hyllengren
 
-🎓 Front-End Developer | 🛠️ Passionate about performance, UX & modern web tech  
-🏡 Based in Fru Alstad, Sweden | 🚀 Always learning, always building
+🎓 Front-End Developer | 🛠️ Passionate about coding, UX & modern web tech  
+🏡 Based in Fru Alstad, Sweden 
 
 ---
 
@@ -39,8 +39,8 @@ Previously, I worked for over a decade as an IT pedagogue and teacher — experi
 
 - 💼 **AdSaver** – A React-based ad organizing and tagging app. Built initially during my internship and continued after graduation.  
 - 🎯 **OCCDEC** – AI-powered real-time sound detection system. I contributed during my internship at LineSpotting, focusing on front-end development and performance optimization.  
-- 🎬 [**FilmFusion**](https://github.com/PeterHyllengren/filmfusion) – A movie discovery app using public APIs and React.
-- 🎲 [**BoardBuddy**](https://github.com/PeterHyllengren/boardbuddy) – Find and rate board games with filters, built in TypeScript + React.
+- 🎬 [**FilmFusion**](https://github.com/FruAlstad/filmfusion) – FilmFusion is a movie discovery app that lets users explore films, save favorites, and share their liked movies with friends for easy recommendations and inspiration.
+- 🎲 [**BoardBuddy**](https://github.com/FruAlstad/boardbuddy) – Interactive and online whiteboard developed for teachers. Ongoing project* 
 
 ---
 
