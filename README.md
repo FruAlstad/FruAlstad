@@ -1,22 +1,15 @@
 # 👋 Hi there, I'm Peter Hyllengren
 
-🎓 Front-End Developer | 🛠️ Passionate about coding, UX & modern web tech  
-🏡 Based in Fru Alstad, Sweden 
+🎓 Front-End Developer | 🛠️ Passionate about coding, UX, and modern web tech  
+🏡 Based in Fru Alstad, Sweden
 
 ---
 
 ## 💡 About Me
 
-I'm a certified Front-End Developer, recently graduated from Medieinstitutet, with a strong foundation in:
+I'm a certified Front-End Developer, recently graduated from Medieinstitutet, with a strong foundation in responsive design, modern JavaScript frameworks, and collaborative development.
 
-- 🔤 **HTML5, CSS3**
-- ⚙️ **JavaScript & TypeScript**
-- ⚛️ **React**
-- 🌐 **REST APIs**
-- 🧪 **Testing (Jest, Testing Library)**
-- 🧩 **Agile methods & team collaboration**
-
-Previously, I worked for over a decade as an IT pedagogue and teacher — experience that shaped my ability to explain technical concepts clearly and work effectively with diverse teams.
+Before shifting careers, I spent over a decade as an IT pedagogue and teacher — an experience that sharpened my communication skills and strengthened my ability to explain complex ideas clearly across teams.
 
 ---
 
@@ -35,25 +28,25 @@ Previously, I worked for over a decade as an IT pedagogue and teacher — experi
 
 ## 🔭 Projects
 
-### 🚀 Active & Noteworthy
+### 🚀 Featured Work
 
-- 💼 **AdSaver** – A React-based ad organizing and tagging app. Built initially during my internship and continued after graduation.  
-- 🎯 **OCCDEC** – AI-powered real-time sound detection system. I contributed during my internship at LineSpotting, focusing on front-end development and performance optimization.  
-- 🎬 [**FilmFusion**](https://github.com/FruAlstad/filmfusion) – FilmFusion is a movie discovery app that lets users explore films, save favorites, and share their liked movies with friends for easy recommendations and inspiration.
-- 🎲 [**BoardBuddy**](https://github.com/FruAlstad/boardbuddy) – Interactive and online whiteboard developed for teachers. Ongoing project* 
+- 💼 **AdSaver** – A React-based tool for organizing and tagging digital ads. Originally developed during my internship and expanded post-graduation to improve functionality and UX.
+
+- 🎯 **OCCDEC** – An AI-powered real-time sound detection system. I contributed to the front-end during my internship at LineSpotting, with a focus on performance optimization and UI responsiveness.
+
+- 🎬 [**FilmFusion**](https://github.com/FruAlstad/filmfusion) – A movie discovery app that allows users to browse films, save favorites, and **share liked movies with friends** for quick recommendations and inspiration.
+
+- 🎲 [**BoardBuddy**](https://github.com/FruAlstad/boardbuddy) – An interactive online whiteboard tailored for teachers, built with a focus on clarity and usability. *(Work in progress)*
 
 ---
 
-
-
 ## 📫 Let's Connect
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/peterhyllengren/)
-- 💌 Email: peter.hyllengren[at]gmail.com *(replace [at] with @)*
-- 🌍 Portfolio: *Coming soon!*
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/peter-hyllengren/)
+- 💌 Email: [peter.hyllengren@gmail.com](mailto:peter.hyllengren@gmail.com)
 
 ---
 
 ## ⚽ Fun Fact
 
-When I'm not coding, I'm likely renovating my house, exploring new tech, or cheering for Malmö FF! 🩵⚽
+When I'm not coding, you'll find me renovating my house, exploring new tech, or passionately cheering for Malmö FF! 🩵⚽
