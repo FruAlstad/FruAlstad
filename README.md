@@ -43,7 +43,7 @@ Before shifting careers, I spent over a decade as an IT pedagogue and teacher �
 ## 📫 Let's Connect
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/peter-hyllengren/)
-- 💌 Email: [yllengrenpeter@gmail.com](mailto:hyllengrenpeter@gmail.com)
+- 💌 Email: [hyllengrenpeter@gmail.com](mailto:hyllengrenpeter@gmail.com)
 
 ---
 
